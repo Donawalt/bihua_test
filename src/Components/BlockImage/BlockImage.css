@@ -1,0 +1,18 @@
+.blockImage {
+    width: 35%;
+    height: 100vh;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+.blockImage .Image {
+    width: 80%;
+    margin-left: 20%;
+    height: 70%;
+}
+
+.blockImage .Image img {
+    width: 100%;
+    height: 100%;
+}

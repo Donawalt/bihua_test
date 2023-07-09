@@ -1,0 +1,11 @@
+.blockTexte {
+    width: 65%;
+    height: 100vh;
+}
+
+.blockTexte .Blocks {
+    width: 80%;
+    height: 100vh;
+    margin-left: 20%;
+    overflow-y: scroll;
+}
